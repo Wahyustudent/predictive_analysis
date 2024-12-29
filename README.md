@@ -7,3 +7,6 @@
 
 ![train test split fartion](https://github.com/user-attachments/assets/36381a6a-2ae9-4d9e-9742-4ffb4a625657)
 ![CF Hasil](https://github.com/user-attachments/assets/5bad14c8-ccb9-495d-8c64-f1fd09d61ffd)
+
+
+![tf idf dataframe](https://github.com/user-attachments/assets/a285cc1f-3d30-4359-8f64-4ed58f35f647)
