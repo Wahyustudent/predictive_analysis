@@ -16,3 +16,5 @@
 ![top n rekomendation JA](https://github.com/user-attachments/assets/3766d4d7-cd5c-45fb-b4ce-2f04a5a1012d)
 ![autorr rekomendation](https://github.com/user-attachments/assets/d89e7bf2-0ae7-476f-9077-69c521bbcfb5)
 ![epoch](https://github.com/user-attachments/assets/e922814e-5ef9-468e-be2b-3d799ba19bff)
+
+![book recomendation cfr](https://github.com/user-attachments/assets/dac979b7-198a-4f40-b679-eee1fc3615dd)
